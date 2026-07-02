@@ -29,7 +29,7 @@ class GameLogic:
         if self.game_over or self.data_manager.is_revealed(player_id, row, col):
             return
 
-        # Start timer on first click
+        # Start timer on the  first click
         if self.player_start_times[player_id] is None:
             self.player_start_times[player_id] = time.time()
             # Generate board now to ensure first click is not a mine
