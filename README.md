@@ -1,5 +1,7 @@
-# python_pbl
-This PBL project, built in Python, turns Minesweeper into a real-time multiplayer race! Players connect to a server and compete on the same shared board, with all moves instantly visible. It's a fast-paced, networked, and competitive take on the iconic puzzle game.
+# 🎮 Python Multiplayer Minesweeper Race
+
+Welcome to **Python PBL** — a fresh twist on the classic Minesweeper game!  
+This project turns Minesweeper into a **real-time multiplayer race**, where players connect to a server, share the same board, and compete to clear it faster than their opponents.
 
 # Highlights
 1-  **Multiplayer Mode** – Play with friends over a shared board.
