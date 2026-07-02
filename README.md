@@ -3,14 +3,18 @@ This PBL project, built in Python, turns Minesweeper into a real-time multiplaye
 
 # Highlights
 1-  **Multiplayer Mode** – Play with friends over a shared board.
+
 2-  **Real-Time Updates** – Every move is instantly visible to all players.
+
 3-  **Server–Client Architecture** – Simple Python networking setup.
+
 4-  **Competitive Gameplay** – Race against others to win.
+
 
 # How to Play
 1. Start the server on one machine.
 
-2.Other players connect as clients using the server’s IP.
+2. Other players connect as clients using the server’s IP.
 
 3. Play Minesweeper together — but faster moves mean victory!
 
